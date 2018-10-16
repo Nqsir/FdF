@@ -2,19 +2,19 @@
 Ce projet consiste à créer graphiquement la représentation schématique d’un terrain en relief
 
 Usage :
-• Make
-• ./fdf fichierfdf.fdf
-• touche de déplacement :
-  w : Avant,
-  s : Arrière,
-  a : Gauche,
-  d : Droite,
-  r : Refresh,
-  esc : Quit,
-  Flèche haut : Augmentation hauteur,
-  Flèche bas : Diminution hauteur,
-  + : Augmentation zoom,
-  - : Diminution zoom.
+- Make
+- ./fdf fichierfdf.fdf
+- touche de déplacement :
+    w : Avant,
+    s : Arrière,
+     a : Gauche,
+     d : Droite,
+     r : Refresh,
+     esc : Quit,
+     Flèche haut : Augmentation hauteur,
+     Flèche bas : Diminution hauteur,
+     + : Augmentation zoom,
+     - : Diminution zoom.
 
 La représentation en relief d’un terrain est une pratique clef de la cartographie moderne.
 Par exemple, en cette ère d’exploration spatiale, avoir une reproduction en trois
