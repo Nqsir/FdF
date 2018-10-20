@@ -1,20 +1,29 @@
 # FdF
 Ce projet consiste à créer graphiquement la représentation schématique d’un terrain en relief
 
-Usage :\
-• ./fdf fichierfdf.fdf\
-• touche de déplacement :
+Usage :
 
-    w : Avant,
-    s : Arrière,
-    a : Gauche,
-    d : Droite,
-    r : Refresh,
-    esc : Quit,
-    Flèche haut : Augmentation hauteur,
-    Flèche bas : Diminution hauteur,
-    + : Augmentation zoom,
-    - : Diminution zoom.
+    • ./fdf fichierfdf.fdf
+    • touche de déplacement :
+
+      w : Avant,
+      s : Arrière,
+      a : Gauche,
+      d : Droite,
+      r : Refresh,
+      esc : Quit,
+      Flèche haut : Augmentation hauteur,
+      Flèche bas : Diminution hauteur,
+      + : Augmentation zoom,
+      - : Diminution zoom.
+
+Principales notions :
+
+    • Algorithme de tracé de segment de Bresenham,
+    • Première utilisation d'une bibliothèque graphique,
+    •  Initiation à la programmation dite “evenementielle”.
+
+Résumé du sujet :
 
 La représentation en relief d’un terrain est une pratique clef de la cartographie moderne.
 Par exemple, en cette ère d’exploration spatiale, avoir une reproduction en trois
