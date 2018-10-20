@@ -21,7 +21,7 @@ Principales notions :
 
     • Algorithme de tracé de segment de Bresenham,
     • Première utilisation d'une bibliothèque graphique,
-    •  Initiation à la programmation dite “evenementielle”.
+    • Initiation à la programmation dite “evenementielle”.
 
 Résumé du sujet :
 
